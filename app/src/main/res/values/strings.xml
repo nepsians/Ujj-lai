@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+
+    <string name="userName">Enter User Name Here</string>
+    <string name="password">Enter Password Here</string>
+    <string name="btnLogin">Login</string>
+
+    <string name="logoDesc">Company Logo</string>
+</resources>

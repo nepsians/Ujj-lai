@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8adf55</color>
+    <color name="colorPrimaryDark">#4493f2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="usercolor">#8ca3a3</color>
+    <color name="silver">#8aa3a2</color>
+    <color name="bg_color">#44f7ff</color>
+    <color name="bt_color1">#8cebff</color>
+    <color name="button_Color">#c6fdff</color>
+    <color name="lightbluecolor">#e3fbfc</color>
+
+    <!--THIRD lAYOUT-->
+    <color name="MainBackground">#fffefc</color>
+    <color name="topContainer">#f4f8ff</color>
+    <color name="bottomContainer">#fff4f4</color>
+</resources>
